@@ -4,8 +4,8 @@ plugins {
 	id 'application'
 }
 
-sourceCompatibility = 14
-targetCompatibility = 14
+sourceCompatibility = 17
+targetCompatibility = 17
 compileJava.options.encoding = 'UTF-8'
 
 mainClassName = 'ch.fhnw.algd1.knapsack.Knapsack'
